@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/WIEDTU/static/css/main.5d25fcd8.chunk.css",
+    "main.js": "/WIEDTU/static/js/main.7ab0bb21.chunk.js",
+    "main.js.map": "/WIEDTU/static/js/main.7ab0bb21.chunk.js.map",
+    "runtime-main.js": "/WIEDTU/static/js/runtime-main.3385f6ee.js",
+    "runtime-main.js.map": "/WIEDTU/static/js/runtime-main.3385f6ee.js.map",
+    "static/css/2.2e99a83d.chunk.css": "/WIEDTU/static/css/2.2e99a83d.chunk.css",
+    "static/js/2.128f126f.chunk.js": "/WIEDTU/static/js/2.128f126f.chunk.js",
+    "static/js/2.128f126f.chunk.js.map": "/WIEDTU/static/js/2.128f126f.chunk.js.map",
+    "index.html": "/WIEDTU/index.html",
+    "static/css/2.2e99a83d.chunk.css.map": "/WIEDTU/static/css/2.2e99a83d.chunk.css.map",
+    "static/css/main.5d25fcd8.chunk.css.map": "/WIEDTU/static/css/main.5d25fcd8.chunk.css.map",
+    "static/js/2.128f126f.chunk.js.LICENSE.txt": "/WIEDTU/static/js/2.128f126f.chunk.js.LICENSE.txt",
+    "static/media/IEEE_DTU_Logo.e26df0a5.png": "/WIEDTU/static/media/IEEE_DTU_Logo.e26df0a5.png",
+    "static/media/WIE_Logo_Black.086e5f1a.png": "/WIEDTU/static/media/WIE_Logo_Black.086e5f1a.png",
+    "static/media/WIExperience.4490b781.jpeg": "/WIEDTU/static/media/WIExperience.4490b781.jpeg",
+    "static/media/WebDevelopment.7a407bdd.jpeg": "/WIEDTU/static/media/WebDevelopment.7a407bdd.jpeg",
+    "static/media/WomenInTech.b482a136.jpeg": "/WIEDTU/static/media/WomenInTech.b482a136.jpeg",
+    "static/media/basicprogramming.0421bcf3.jpeg": "/WIEDTU/static/media/basicprogramming.0421bcf3.jpeg",
+    "static/media/circuits.f56983d5.jpeg": "/WIEDTU/static/media/circuits.f56983d5.jpeg",
+    "static/media/dsa.f79dc077.jpeg": "/WIEDTU/static/media/dsa.f79dc077.jpeg",
+    "static/media/flutter.f3eb90cf.jpeg": "/WIEDTU/static/media/flutter.f3eb90cf.jpeg",
+    "static/media/google.4e4e2945.png": "/WIEDTU/static/media/google.4e4e2945.png",
+    "static/media/iTrack.153a759e.jpeg": "/WIEDTU/static/media/iTrack.153a759e.jpeg",
+    "static/media/iot.ed60b8d7.jpeg": "/WIEDTU/static/media/iot.ed60b8d7.jpeg",
+    "static/media/jpm.c617e1db.png": "/WIEDTU/static/media/jpm.c617e1db.png",
+    "static/media/ml.6937a678.jpeg": "/WIEDTU/static/media/ml.6937a678.jpeg",
+    "static/media/robotics.879c0a11.jpeg": "/WIEDTU/static/media/robotics.879c0a11.jpeg",
+    "static/media/webd.07f30bb9.jpeg": "/WIEDTU/static/media/webd.07f30bb9.jpeg",
+    "static/media/wieLogoWhite.bf41b97e.png": "/WIEDTU/static/media/wieLogoWhite.bf41b97e.png",
+    "static/media/wievid.119515df.mp4": "/WIEDTU/static/media/wievid.119515df.mp4",
+    "static/media/woman1.f87927a5.png": "/WIEDTU/static/media/woman1.f87927a5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3385f6ee.js",
+    "static/css/2.2e99a83d.chunk.css",
+    "static/js/2.128f126f.chunk.js",
+    "static/css/main.5d25fcd8.chunk.css",
+    "static/js/main.7ab0bb21.chunk.js"
+  ]
+}
